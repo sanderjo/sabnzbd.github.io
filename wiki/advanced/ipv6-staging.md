@@ -8,6 +8,8 @@ You can find ipv6-staging in Config -> Special.
 
 ### Enrich newsservers with IPv6 connectivity.
 
+Short: SABnzbd will find the IPv6 equivalent newsserver, and try if it's faster, and if so, use it.
+
 Some usenet providers have an IPv4-only newsserver, and a separate IPv6-only newsserver. 
 To be more exact: it's probably the same newsserver, but there is an IPv4-ony name (FQDN), and an IPV6-only.
 For example: news.eweka.nl and news6.eweka.nl. 
